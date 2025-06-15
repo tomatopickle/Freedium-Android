@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Freedium Android</string>
+    <string name="back_button">Go back to previous page</string>
+    <string name="share">share icon</string>
+</resources>
