@@ -26,3 +26,4 @@ A simple, free Medium article reader for Android, made using [Freedium](https://
 - Read premium articles for free
 - Reading history
 - Uses dynamic color theme.
+- Opens Medium links from other apps
